@@ -1,5 +1,5 @@
 #include <stdio.h>
 int main(){
-	printf("hello,git\n");
+	printf("hello,riscv\n");
 	return 0;
 }
